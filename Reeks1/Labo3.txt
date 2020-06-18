@@ -1,0 +1,4 @@
+%X = map{$_,undef} (@X,@Y); is de manier om een unie te maken van de array X en Y
+om dan de intersect te nemen, geef je bijvoorbeeld aan hash van array 1 een 1 mee als value 
+en aan de hash van array 2 een 2 mee als value en als de corresponderende unie dan waarden heeft met
+als value 3 dan zaten die in beide lijsten

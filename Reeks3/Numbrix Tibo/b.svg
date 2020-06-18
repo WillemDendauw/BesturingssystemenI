@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//w3c//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="320" height="320" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<title>Numbrix B</title>
+
+  <g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  	<line x1="50" y1="50" x2="50" y2="300" />
+  	<line x1="50" y1="50" x2="300" y2="50" />
+  	<line x1="300" y1="50" x2="300" y2="300" />
+  	<line x1="50" y1="300" x2="300" y2="300" />
+  	<line x1="100" y1="50" x2="100" y2="300" />
+  	<line x1="150" y1="50" x2="150" y2="300" />
+  	<line x1="200" y1="50" x2="200" y2="300" />
+  	<line x1="250" y1="50" x2="250" y2="300" />
+  	<line x1="50" y1="100" x2="300" y2="100" />
+  	<line x1="50" y1="150" x2="300" y2="150" />
+  	<line x1="50" y1="200" x2="300" y2="200" />
+ 	<line x1="50" y1="250" x2="300" y2="250" />
+  </g>
+  <g fill="black" stroke-width="1" text-anchor="middle" style="font-family:Arial" font-size="28">
+		<text x="175" y="135">10</text>
+		<text x="125" y="135">11</text>
+		<text x="225" y="135">9</text>
+		<text x="125" y="185">18</text>
+		<text x="225" y="185">8</text>
+		<text x="125" y="235">17</text>
+		<text x="225" y="235">23</text>
+		<text x="175" y="235">20</text>
+	</g>
+</svg>

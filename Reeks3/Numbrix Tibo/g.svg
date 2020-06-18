@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//w3c//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="420" height="420" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<title>Numbrix G</title>
+
+  	<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  		<line x1="50" y1="50" x2="50" y2="400" />
+  		<line x1="50" y1="50" x2="400" y2="50" />
+  		<line x1="400" y1="50" x2="400" y2="400" />
+  		<line x1="50" y1="400" x2="400" y2="400" />
+  		<line x1="100" y1="50" x2="100" y2="400" />
+  		<line x1="150" y1="50" x2="150" y2="400" />
+  		<line x1="200" y1="50" x2="200" y2="400" />
+  		<line x1="250" y1="50" x2="250" y2="400" />
+  		<line x1="50" y1="100" x2="400" y2="100" />
+  		<line x1="50" y1="150" x2="400" y2="150" />
+  		<line x1="50" y1="200" x2="400" y2="200" />
+ 		<line x1="50" y1="250" x2="400" y2="250" />
+    	<line x1="50" y1="300" x2="400" y2="300" />
+    	<line x1="50" y1="350" x2="400" y2="350" />
+    	<line x1="300" y1="50" x2="300" y2="400" />
+    	<line x1="350" y1="50" x2="350" y2="400" />
+ 	</g>
+  	<g fill="black" stroke-width="1" text-anchor="middle" style="font-family:Arial" font-size="28">
+		<text x="225" y="85">2</text>
+		<text x="125" y="135">47</text>
+		<text x="225" y="135">41</text>
+    	<text x="325" y="135">35</text>
+		<text x="75" y="235">8</text>
+    	<text x="125" y="235">45</text>
+    	<text x="225" y="235">43</text>
+   		<text x="325" y="235">37</text>
+  		<text x="375" y="235">30</text>
+		<text x="225" y="335">23</text>
+    	<text x="125" y="335">11</text>
+    	<text x="325" y="335">21</text>
+    	<text x="225" y="385">16</text>
+	</g>
+</svg>
